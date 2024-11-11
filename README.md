@@ -15,8 +15,6 @@
 
 <!--About me-->
 ## <img width ="25"><b> About me</b>
-<br>
-
 
 <!--Intro start-->
 - 🧉  24 Years old, Back-End Dev, Argentinean.
@@ -33,14 +31,16 @@
 <!--Intro end-->
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+## <div id="user-content-toc">
   <ul align="left">
     <summary><h2 style="display: inline-block" >My skills include</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,cs,dotnet,java,eclipse,git,github,html,css,js,mysql,visualstudio,vscode,sublime&perline=14" />
-  </a>
-</p>
+<div>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=azure,cs,dotnet,java,eclipse,git,github,html,css,js,mysql,visualstudio,vscode,sublime&perline=14" />
+    </a>
+  </p>
+</div>  
