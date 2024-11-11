@@ -13,8 +13,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Coding+solutions+for+tomorrow’s+problems.;Self-taught+Back-End+Developer,;Computer+Science+Degree+Student,;Active+Learner,;Love+to+learn+new+technology;Buenos+Aires,+🇦🇷"></a>
 </p>
 
-<img width ="25"><b> About me</b>
+<!--About me-->
+## <img width ="25"><b> About me</b>
 <br>
+
 
 <!--Intro start-->
 - 🧉  24 Years old, Back-End Dev, Argentinean.
@@ -32,16 +34,13 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  <ul align="left">
+    <summary><h2 style="display: inline-block" >My skills include</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=azure,cs,dotnet,java,eclipse,git,github,html,css,js,mysql,visualstudio,vscode,sublime&perline=14" />
   </a>
 </p>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
