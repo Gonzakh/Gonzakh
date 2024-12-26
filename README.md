@@ -40,7 +40,7 @@
 <div>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=azure,cs,dotnet,java,eclipse,git,github,html,css,js,mysql,visualstudio,vscode,sublime&perline=14" />
+      <img src="https://skillicons.dev/icons?i=azure,cs,dotnet,java,eclipse,git,github,html,css,js,sqlsv,visualstudio,vscode,sublime&perline=14" />
     </a>
   </p>
 </div>  
