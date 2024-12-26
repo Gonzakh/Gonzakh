@@ -19,7 +19,7 @@
 <!--Intro start-->
 - 🧉  24 Years old, Back-End Dev, Argentinean.
 
-- 🔭 I’m currently working on .NET, Azure, MySQL.
+- 🔭 I’m currently working on .NET, Azure, SQL Server Management Studio.
 
 - 🌱 I’m currently learning **how to build cloud services for Applications.**
 
